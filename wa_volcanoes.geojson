@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.759880000448,
+          46.8505199997428
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "settlerName": "Mt. Rainier",
+        "indigName": "Tahoma (Puyallup Tribe)",
+        "indigStory": "Mount Rainier, or <i>Tahoma</i> as it has been known, is the tallest peak in Washington State. In the Lushootseed language, this name translates to 'mother of waters'.",
+        "settlerStory": "In May of 1792, Capt. Vancouver named Mount Rainier after his friend, Rear Admiral Peter Rainier.",
+        "Elev_ft": 14410,
+        "Status": "Active",
+        "Type_": "stratovolcano",
+        "State": "Washington",
+        "Last_Erupt": "1000 BP"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.49083000043,
+          46.2025000000628
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "settlerName": "Mt. Adams",
+        "indigName": "Klickitat (Klickitat Tribe)",
+        "settlerStory": "Mount Adams was named after the 2nd President of the United States, John Adams, a mistake in a scheme by Hall J. Kelly to call the Cascade Range the 'Presidents Range'.",
+        "indigStory": "Mount Adams, or <i>Klickitat</i>, as the nearby tribe knew it as, is the second-tallest Washington volcano. Its Klickitat name translates to 'beyond'.",
+        "Elev_ft": 12277,
+        "Status": "Potentially active",
+        "Type_": "stratovolcano",
+        "State": "Washington",
+        "Last_Erupt": "3800 BP"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.812999999991,
+          48.7769999998178
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "settlerName": "Mt. Baker",
+        "indigName": "Kweq’ Smánit (Nooksack Tribe)",
+        "settlerStory": "In April 1792, Capt. Vancouver entered the Strait of Juan de Fuca and named every island, mountain, waterway and point of land in sight – 75 in all. That month, he named Mount Baker after his Third Lieutenant, Joseph Baker.",
+        "indigStory": "Mt. Baker has many names, but there is confusion on whether or not 'Koma Kulshan' (as many non-Native local residents refer to it as) was actually used by any of the native tribes at all. As there is no single Salish language, referencing the name can be difficult. One of the known Indigenous names from the Nooksack tribe is, <i>Kweq’ Smánit</i>, literally translating to 'white mountain'.",
+        "Elev_ft": 10781,
+        "Status": "Active",
+        "Type_": "stratovolcano",
+        "State": "Washington",
+        "Last_Erupt": "6700 BP"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.112999999589,
+          48.1119999999521
+        ]
+      },
+      "properties": {
+        "indigName": 4,
+        "settlerName": "Glacier Peak",
+        "settlerStory": "Captain George Vancouver Cook named Mount Baker in Whatcom County after his Third Lieutenant, Joseph Baker.",
+        "indigName": "Dakobed (Sauk-Suiattle Tribe)",
+        "indigStory": "Glacier Peak, or <i>Dakobed</i> is the most isolated of the five volcanoes. The Sauk-Suiattle Tribe called it <i>Dakobed</i>, meaning 'great parent'.",
+        "settlerImage": "photos/canoe.jpg",
+        "indigImage": "Active",
+        "Type_": "stratovolcano",
+        "State": "Washington",
+        "Last_Erupt": "1100 BP"
+
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.194440000277,
+          46.1911100001959
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "settlerName": "Mt. St. Helens",
+        "indigName": "Loowit (Puyallup Tribe)",
+        "settlerStory": "In October of 1792, Capt. Vancouver named Mount St. Helens for British diplomat Alleyne Fitzherbert, whose title was Baron St. Helens.",
+        "indigStory": "The lore of this mountain has long been tied to her many eruptions over time.  Historically, Mount St. Helens is one of the most active volcanoes in the Cascade range, though still considered dormant by most standards. The Puyallup tribes called the mountain 'Loowitlatkla,'' meaning literally 'Lady of Fire'.",
+        "Elev_ft": 8363,
+        "Status": "Active",
+        "Type_": "stratovolcano",
+        "State": "Washington",
+        "Last_Erupt": "1980, 2004-2008"
+      }
+    }
+  ]
+}
